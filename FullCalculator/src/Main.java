@@ -9,7 +9,7 @@ class Input2 {
         int number1 = input.nextInt();
         System.out.print("Please enter a symbol:  ");
         String symbol = input.next();
-        System.out.println("Enter number2:  ");
+        System.out.print("Enter number 2:  ");
         int number2 = input.nextInt();
 
         if(symbol.equals("*")){
